@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/shop-smart/static/css/main.8f5ba381.css",
+    "main.css": "/shop-smart/static/css/main.74e7406c.css",
     "main.js": "/shop-smart/static/js/main.f5002b9a.js",
     "index.html": "/shop-smart/index.html",
-    "main.8f5ba381.css.map": "/shop-smart/static/css/main.8f5ba381.css.map",
+    "main.74e7406c.css.map": "/shop-smart/static/css/main.74e7406c.css.map",
     "main.f5002b9a.js.map": "/shop-smart/static/js/main.f5002b9a.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f5ba381.css",
+    "static/css/main.74e7406c.css",
     "static/js/main.f5002b9a.js"
   ]
 }
